@@ -1,9 +1,6 @@
+<img height="500" src="/banner.jpg" alt="plugin banner">
 
-<p align="center">
-  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="/banner.jpg" alt="plugin banner"></a>
-</p>
-
-## TIRED OF WRITING `console.log`?
+## Tired of writing `console.log` over and over again?
 ### `babel-plugin-log-expressions` got you covered!
 Every expression that you write turns into a console.log!
 
@@ -17,3 +14,5 @@ module.exports = {
   plugins: ['babel-plugin-log-expressions'],
 }
 ```
+
+### Inspired by [this twit](https://twitter.com/temoncher/status/1596858308681695233?s=46&t=tVWmCyQuVzf_A8IGcw6KyA)
