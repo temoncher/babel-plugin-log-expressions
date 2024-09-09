@@ -15,4 +15,4 @@ module.exports = {
 }
 ```
 
-### Inspired by [this twit](https://twitter.com/temoncher/status/1596858308681695233?s=46&t=tVWmCyQuVzf_A8IGcw6KyA)
+### Inspired by [this tweet](https://twitter.com/temoncher/status/1596858308681695233?s=46&t=tVWmCyQuVzf_A8IGcw6KyA)
